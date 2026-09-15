@@ -56,5 +56,4 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
 
 ## 🎓 Additional Resources
 
-- Exam & Project Info (Waiting ...)
 - [Git Introduction](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/GitInfo.md)
