@@ -57,4 +57,5 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
 ## 🎓 Additional Resources
 
 - [Git Introduction](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/GitInfo.md)
+- [How to Contribute to Class Repositories](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/how_to_contribute.md)
 - [Json, Yaml & Other Data Formats](https://github.com/Intelligent-Internet-of-Things-Course/json-yaml-dataformats)
