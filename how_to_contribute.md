@@ -1,0 +1,87 @@
+# 🤝 Contributing & Improving the Repository
+
+Contributions to enhance the lecture content, fix issues, or add new features are welcome.
+Please feel free to contribute following one of the following two options: 
+
+- 🐛 Open an issue to discuss your ideas or suggestions before making any changes.
+- 🍴 Fork the repository, make your changes, and submit a pull request for review.
+
+## 🆕 Create a New Issue
+
+To create a new issue and help improve the lecture content, follow these steps:
+
+1. **📂 Navigate to target Lecture Markdown File**  
+    Go to the repository's GitHub page and locate the specific lecture markdown file you want to discuss.
+
+2. **💻 Open the Markdown File in Code Mode**  
+    
+    ![](docs/images/find_line_create_new_issue.png)
+
+    Switch from `Preview` mode to `Code` mode by clicking the respective tab at the top right of the file view. In this way, you can see the raw markdown content and line numbers, which will help you reference specific parts of the text in your issue.  
+    Then, click on the `...` (three dots) and clici on `Reference in new issue` to automatically create a new issue with a reference to the specific line you are viewing.
+
+3. **✏️ Describe Your Suggestion or Problem**  
+    
+    ![](docs/images/create_issue.png)
+
+    - Provide a clear and descriptive **title** for your issue.
+    - In the description, explain your suggestion, feedback, or the problem you found in the lecture content.
+    - If possible, reference specific sections, files, or lines to make your feedback actionable.
+    - You can also attach screenshots or code snippets to clarify your point.
+    - The Link "Reference in new issue" will automatically include a reference to the specific line you were viewing, making it easier for maintainers to understand the context of your issue.
+    - If you are creating the issue manually please refer to the specific line numbers or sections in your description in order to provide context.
+    - If you want you can also assign **labels** to your issue (e.g., `bug`, `enhancement`, `question`) to help categorize it.
+
+4. **✅ Create the Issue**  
+    Once you have filled out the details, click "Create"  
+    The repository maintainers will review your issue and respond as soon as possible.
+
+Creating issues is a great way to contribute, ask questions, or suggest improvements. 
+**💡 Your feedback helps keep the lecture materials accurate and up-to-date!**
+
+## 🍴 Fork and Submit a Pull Request
+
+To contribute directly by making changes to the lecture content, you can fork the repository, make your changes, and submit a pull request. Here’s how to do it:
+
+1. **🍴 Fork the Repository**  
+    - Go to the repository's GitHub page.
+    - Click the "Fork" button at the top right corner of the page. This will create a copy of the repository under your GitHub account.
+2. **💾 Clone Your Fork**  
+    - Open your terminal or command prompt.
+    - Clone your forked repository to your local machine using the command:
+      ```bash
+      git clone <your-fork-url>
+      ```
+3. **🌿 Create a New Branch**  
+    - Navigate to the cloned repository:
+      ```bash
+      cd <repository-name>
+      ```
+    - Create a new branch for your changes:
+      ```bash
+      git checkout -b <your-branch-name>
+      ```
+4. **✏️ Make Your Changes**  
+    - Open the files you want to edit in your preferred text editor or IDE.
+    - Make the necessary changes to the lecture content.
+5. **💾 Commit Your Changes**  
+    - After making your changes, stage the modified files:
+      ```bash
+      git add <file1> <file2> ...
+      ```
+    - Commit your changes with a descriptive message:
+      ```bash
+      git commit -m "Your descriptive commit message"
+      ``` 
+6. **📤 Push Your Changes to Your Fork**  
+    - Push your changes to the branch you created on your forked repository:
+      ```bash
+      git push origin <your-branch-name>
+      ```
+7. **🔄 Create a Pull Request**  
+    - Go to your forked repository on GitHub.
+    - You will see a prompt to create a pull request for the branch you just pushed. Click on "Compare & pull request".
+    - Provide a clear title and description for your pull request, explaining the changes you made and why they are beneficial.
+    - Click "Create pull request" to submit your changes for review.
+
+The repository maintainers will review your pull request and may provide feedback or request changes before merging it into the main repository.
