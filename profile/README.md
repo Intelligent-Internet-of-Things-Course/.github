@@ -25,7 +25,7 @@ The laboratory part concludes with a project (individual or group) involving the
 
 The course is delivered in Italian, in-person, with no mandatory attendance. Lessons rely on dedicated slides provided to students, complemented by references to textbooks and additional teaching material. Two seminars are also included, featuring companies operating in the IoT sector and a look at upcoming technological developments.
 
-## 🎓 Topics & Lectures
+## 🎓 Main Topics
 
 **(A) IoT Introduction & IoT Networking**
   - IoT Physical / Link Layer
@@ -54,7 +54,33 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
   - Virtual Objects & Digital Twins
   - IoT Data Processing, Visualization & Machine Learning
 
-## 🎓 Additional Resources
+## 📚 Lectures & Source Code Repositories
+
+**1. 📚 Introduction to Cyber-Physical Systems and Internet of Things**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/cps-and-iot/cps-introduction/cps_introduction.md) 
+
+**2. 📚 Python Best Practices, Object Oriented Programming and Use Case Modeling**
+   - *📖 Lecture*
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/programming-and-software-engineering/python-best-practices-and-oop/python_oop.md) 
+   - *🛠️ Source Code - Plaground & Laboratory*
+     - [Python Object Oriented Programming - Playground](https://github.com/Marco-Picone-Teaching/python-oop-playground)
+     - [Python Object Oriented Programming - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-oop)
+
+**3. 📚 IoT Protocols Overview**
+   - *📖 Lecture* 
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-protocols-overview/iot_protocols_overview.md)
+   - *🛠️ Source Code - Plaground & Laboratory*
+     - [Python TCP & UDP - Playground](https://github.com/Marco-Picone-Teaching/python-tcp-udp-playground)
+
+**4. 📚 The HTTP Protocol & RESTful Architectural Style**
+   - *📖 Lecture* 
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/http-protocol-and-rest/http_protocol_and_rest.md)
+   - *🛠️ Source Code - Plaground & Laboratory*
+     - [Python HTTP RESTful API - Playground](https://github.com/Marco-Picone-Teaching/python-http-api-playground)
+     - [Python HTTP RESTful API - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-http-rest-api)
+
+## 📚 Additional Resources
 
 - [Git Introduction](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/GitInfo.md)
 - [How to Contribute to Class Repositories](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/how_to_contribute.md)
