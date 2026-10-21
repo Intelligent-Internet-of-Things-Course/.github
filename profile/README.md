@@ -80,6 +80,13 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
      - [Python HTTP RESTful API - Playground](https://github.com/Marco-Picone-Teaching/python-http-api-playground)
      - [Python HTTP RESTful API - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-http-rest-api)
 
+**5. 📚 The MQTT Protocol**
+   - *📖 Lecture*
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/pubsub-mqtt-protocol/pubsub_mqtt_protocol.md)
+   - *🛠️ Source Code - Plaground & Laboratory*
+     - [Python MQTT - Playground](https://github.com/Marco-Picone-Teaching/python-mqtt-playground)
+     - [Python MQTT - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-mqtt)
+
 ## 📚 Additional Resources
 
 - [Git Introduction](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/GitInfo.md)
