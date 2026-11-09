@@ -87,6 +87,23 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
      - [Python MQTT - Playground](https://github.com/Marco-Picone-Teaching/python-mqtt-playground)
      - [Python MQTT - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-mqtt)
 
+**6. 📚 The Constrained Application Protocol (CoAP)**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/coap-protocol/coap_protocol.md)
+  - *🛠️ Source Code - Playground & Laboratory*
+    - [Python CoAP - Playground](https://github.com/Marco-Picone-Teaching/python-coap-playground)
+    - [Python CoAP - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap)
+
+**7. 📚 Resource & Service Discovery**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/resource-and-service-discovery/resource_and_service_discovery.md)
+  - *🛠️ Source Code - Laboratory*
+    - [Python CoAP Interoperability - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap-interoperability)
+
+**8. 📚 IoT Smart Object Design**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-smart-object-design/iot_smart_object_design.md)
+
 ## 📚 Additional Resources
 
 - [Git Introduction](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/GitInfo.md)
