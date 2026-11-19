@@ -100,7 +100,11 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
   - *🛠️ Source Code - Laboratory*
     - [Python CoAP Interoperability - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap-interoperability)
 
-**8. 📚 IoT Smart Object Design**
+**8. 📚 IoT Data Formats & Information Representation**
+   - *📖 Sensor Measurement Lists (SenML) - Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/data-formats/data-formats-iot-senml/data_formats_iot_senml.md)
+
+**9. 📚 IoT Smart Object Design**
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-smart-object-design/iot_smart_object_design.md)
 
