@@ -102,7 +102,7 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
 
 **8. 📚 IoT Data Formats & Information Representation**
    - *📖 Sensor Measurement Lists (SenML) - Lecture*
-    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/data-formats/data-formats-iot-senml/data_formats_iot_senml.md)
+      - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/data-formats/data-formats-iot-senml/data_formats_iot_senml.md)
 
 **9. 📚 IoT Smart Object Design**
   - *📖 Lecture*
