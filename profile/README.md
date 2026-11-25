@@ -108,6 +108,10 @@ The course is delivered in Italian, in-person, with no mandatory attendance. Les
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-smart-object-design/iot_smart_object_design.md)
 
+**10.📚 Edge Computing for the IoT**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/cloud-edge-computing/edge-computing-for-the-iot/edge_computing_for_the_iot.md)
+
 ## 📚 Additional Resources
 
 - [Git Introduction](https://github.com/Intelligent-Internet-of-Things-Course/.github/blob/main/GitInfo.md)
